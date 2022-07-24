@@ -6,7 +6,7 @@ namespace dotnet_resXManager
 {
     public class Language
     {
-        private static string _language = "zh-TW";//"en-US";
+        private static string _language ="ja-JP" ;//"zh-TW";//"en-US";
 
         public Language()
         {

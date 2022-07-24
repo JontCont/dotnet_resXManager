@@ -109,4 +109,8 @@
     <value>TEST</value>
     <comment>測試</comment>
   </data>
+  <data name="Import" xml:space="preserve">
+    <value>Import</value>
+    <comment>匯入</comment>
+  </data>
 </root>
